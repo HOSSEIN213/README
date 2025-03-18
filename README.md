@@ -5,7 +5,7 @@
 Front-end
 ---------
 
-I am an energetic and passionate developer on my journey in the world of programming. I started with HTML, CSS, and JavaScript for UI design, and now I am learning React and Next.js to build modern web applications.
+<..I am an energetic and passionate developer on my journey in the world of programming. I started with HTML, CSS, and JavaScript for UI design, and now I am learning React and Next.js to build modern web applications..!>
 
 * 🌍  I'm based in Iran
 * 🧠  I'm learning React and Next.js
